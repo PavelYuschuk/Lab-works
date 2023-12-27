@@ -2,7 +2,9 @@
     "name": "Labs",
     "description": "Лабораторні роботи",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-google-sheets": "1.1.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
